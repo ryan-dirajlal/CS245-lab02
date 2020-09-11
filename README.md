@@ -1,5 +1,5 @@
 # CS245-lab02
-
+Ryan Dirajlal
 Finished: 10:00am 9/11/2020
 
 How to run:
